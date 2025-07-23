@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Pipeline desde GithubActions  - 21 Julio 2025 8:14pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Instalacion automatica desde el codigo con Jenkns y Tomcat - 23 - julio - 2025 : 6:48 pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
