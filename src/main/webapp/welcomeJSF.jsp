@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - PipeLine desde github Actions   - 27 - julio - 2025 : 6:48 pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - PipeLine desde Dockerhub   - 27 - julio - 2025 : 11 pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
