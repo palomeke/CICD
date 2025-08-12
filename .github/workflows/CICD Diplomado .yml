@@ -43,4 +43,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: palomeke/cicddockerimagediplomado
+        tags: palomeke/cicddockerimagediplomadogithubactions
